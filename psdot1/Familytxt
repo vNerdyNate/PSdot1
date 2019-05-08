@@ -1,0 +1,6 @@
+select * where food -eq good
+if(food = full)
+{$txt = $witty}
+else{
+    $txt = $passiveaggressive
+}
